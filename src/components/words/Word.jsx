@@ -3,7 +3,7 @@ import React from 'react'
 const Word = () => {
   return (
     <div>
-      <section className='text-white text-xs bg-black font-serif mt-10'>
+      <section className='text-white text-xs bg-black font-serif pt-10 h-[800px]'>
         <div className='ml-20 mr-20'>
         <div className=' '>
             <p>1.Trade-in values will vary based on the condition,year, and configuration of your eligible trade-in device.Not all devices are eligible for
@@ -152,6 +152,7 @@ const Word = () => {
         </div>
      
       </section>
+      
     </div>
   )
 }

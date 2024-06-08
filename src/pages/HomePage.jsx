@@ -11,7 +11,7 @@ const Homepage = () => {
   return (
     <div>
       <Header/>
-      < Taskbar/>
+      <Taskbar/>
       <Items/>
       <Grid/>
       <Slide/>

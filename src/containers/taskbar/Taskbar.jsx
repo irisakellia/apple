@@ -16,7 +16,7 @@ const Taskbar = () => {
   return (
     <div className='bg-gray-100'>
       <div>
-        <div className='font-bold text-4xl'>
+        <div className='font-bold text-4xl ml-10'>
             <p ><span className='text-black'>Store.</span> <span className='text-black text-opacity-50'>The best way to buy the</span></p>
             <p className='text-black text-opacity-50 mt-2'>products you love. </p>
         </div>
